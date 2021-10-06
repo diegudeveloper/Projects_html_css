@@ -155,8 +155,6 @@ main .hero .container_main_hero .picture .picture_small img {
     object-fit: cover;
 }
 
-
-
 main .hero .container_main_hero .picture .picture_small .capa {
     position: absolute;
     top: 0;
@@ -206,8 +204,6 @@ main .hero .container_main_hero .picture .picture_small .capa .container_icons {
     margin-bottom: 20px;
 }
 
-
-
 main .hero .container_main_hero .picture .picture_small .capa a .fas {
     font-size: 22px;
     color: white;
@@ -217,6 +213,8 @@ main .hero .container_main_hero .picture .picture_small .capa a .fas {
 
 main .hero .container_main_hero .picture .picture_small .capa .container_icons a {
     width: 50%;
+    text-decoration: none;
+    font-size: 14.5px;
 }
 
 main .hero .container_main_hero .picture .picture_small .capa .container_icons p {
@@ -233,37 +231,6 @@ main .hero .container_main_hero .picture .picture_small img {
 main .hero .container_main_hero .picture .picture_small:hover > img {
     transform: scale(1.6);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /*Tools*/
 
@@ -836,7 +803,7 @@ footer {
     }
 
     main .hero .container_main_hero .picture .picture_small:hover > .capa h3 {
-        margin-top: 70px;
+        margin-top: 30px;
         margin-bottom: 15px;
     }
 
@@ -929,10 +896,5 @@ footer {
             height: auto;
             margin: 0 auto;
         }
-
-
     }
-    
-
-
 } 
