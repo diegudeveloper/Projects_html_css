@@ -302,6 +302,7 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
     width: 48%;
     margin-bottom: 15px;
     overflow: hidden;
+    position: relative;
 }
 
 .bestseller .container_best3 .best img {
@@ -324,12 +325,20 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
     color: #fece49;
 }
 
+.bestseller .container_best3 .box_star a .ico{
+    font-size: 16px;
+    color:black;
+    margin-top: 10px;
+}
+
 .bestseller .container_best3 .box_star .nomberWeb {
     width: 100%;
     margin-top: 10px;
     text-align: center;
     font-size: 12px;
 }
+
+
 
 
 /*Mini Project*/
@@ -834,6 +843,24 @@ footer {
     main .hero .container_main_hero .picture .picture_small:hover > img {
         transform: scale(1.3);
     }
+
+
+    .bestseller .container_best3 .box_star a .ico{
+       font-size: 18px;
+        margin-top: 15px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
 
     .desafios .container_carrusel_desafios {
         justify-content: space-evenly;
