@@ -272,6 +272,17 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
     align-items: center;
 }
 
+.tools .container_tools .tools .fab, .fas {
+    width: 50%;
+    text-align: center;
+    font-size: 30px;
+}
+
+.tools .container_tools .tools .text_tools {
+    width: 50%;
+    text-align: center;
+}
+
 /*Bestseller 4*/
 
 .bestseller {
