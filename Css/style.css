@@ -734,7 +734,7 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
     background-color: var(--just-white);
     border-radius: 15px;
     box-shadow: 0px 0 4px 2px rgb(89 73 30 / 16%);
-    background-image: url(/Assets/desafios/01.jpg);
+    background-image: url(..Assets/desafios/01.jpg);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -754,7 +754,7 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
     background-color: var(--just-white);
     border-radius: 15px;
     box-shadow: 0px 0 4px 2px rgb(89 73 30 / 16%);
-    background-image: url(/Assets/desafios/02.jpg);
+    background-image: url(..Assets/desafios/02.jpg);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -774,7 +774,7 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
     background-color: var(--just-white);
     border-radius: 15px;
     box-shadow: 0px 0 4px 2px rgb(89 73 30 / 16%);
-    background-image: url(/Assets/desafios/03.jpg);
+    background-image: url(..Assets/desafios/03.jpg);
     background-position: center;
     background-size: 100%;
     background-repeat: no-repeat;
