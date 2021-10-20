@@ -112,6 +112,9 @@ main .hero .container_main_hero .picture_hero2 {
     width: 100%;
     height: auto;
     margin-bottom: 30px;
+
+    display: flex;
+    flex-wrap: wrap;
 }
 
 main .hero .container_main_hero .picture:nth-child(1) {
@@ -123,7 +126,6 @@ main .hero .container_main_hero .picture:nth-child(1) {
     overflow: hidden;
     margin-top: 10px;
     margin-bottom: 20px;
-    
 }
 
 main .hero .container_main_hero .picture .picture_small {
@@ -147,6 +149,10 @@ main .hero .container_main_hero .picture .picture_small {
     box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
 
     position: relative;
+}
+
+main .hero .container_main_hero .picture .p1 {
+    order: 2;
 }
 
 main .hero .container_main_hero .picture .picture_small img {
