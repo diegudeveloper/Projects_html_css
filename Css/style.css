@@ -207,6 +207,7 @@ main .hero .container_main_hero .picture .picture_small .capa .container_icons {
     justify-content: space-evenly;
     align-items: flex-start;
     flex-wrap: wrap;
+
     margin-bottom: 20px;
 }
 
@@ -224,7 +225,7 @@ main .hero .container_main_hero .picture .picture_small .capa .container_icons a
 }
 
 main .hero .container_main_hero .picture .picture_small .capa .container_icons p {
-    width: 50%;
+    width: 100%;
 }
 
 main .hero .container_main_hero .picture .picture_small img {
