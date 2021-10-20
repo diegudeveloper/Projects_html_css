@@ -722,6 +722,11 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
     font-size: 14px;
 }
 
+.desafios .container_carrusel_desafios .planes-container-card .vip {
+    text-align: center;
+    cursor: pointer;
+}
+
 .desafios .container_carrusel_desafios .planes-container-card {
     position: relative;
     scroll-snap-align: center;
@@ -783,7 +788,11 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
 }
 
 .desafios .container_carrusel_desafios .planes-container-card .planes-info-container a {
-    cursor: pointer;
+    text-decoration: none;
+}
+
+.desafios .container_carrusel_desafios .planes-container-card .planes-info-container {
+    text-align: center;
 }
 
 .desafios .container_carrusel_desafios .planes-container-card .planes-info-container .planes-card--tittle {
@@ -799,7 +808,6 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
     height: 30px;
     margin-top: 150px;
     background-color: #faf8f7;
-    /*border: 2px solid #f7931a;*/
     border: 2px solid rgb(57, 120, 184);
     border-radius: 4px;
     font-size: -0.6rem;
@@ -807,6 +815,7 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
     line-height: 1.8rem;
     color: #201e1c;
     font-family: sans-serif;
+    cursor: pointer;
 }
 
 
@@ -1091,6 +1100,8 @@ footer {
 
     .header .logo {
         width: 7%;
+        margin-left: 10px;
+        order: 1;
     }
 
     .header {
