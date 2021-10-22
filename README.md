@@ -1,6 +1,11 @@
 # Portfolio de conocimiento de HTML Y CSS
 
-![Design preview for the Stats preview card component coding challenge](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Assets/PC.png)
+<details>
+    <summary>🖥 Desktop Image</summary>
+
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Assets/PC.png)
+
+</details>
 
 ## Welcome! 👋
 
