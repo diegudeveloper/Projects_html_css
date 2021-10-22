@@ -11,23 +11,19 @@
 
 Gracias por tomarte el tiempo para observar, analizar y sobre todo realizar criticas constructivas.
 
-[Portafolio HTML y CSS](https://diegudeveloper.github.io/Projects_html_css/) es el resultado de mis habilidades adquiridas en los en los diferentes cursos tomados como autodidacta. Sus comentarios y criticas me ayudan a fianzar mis conocimientos y a su vez obtener buenas bases para futuros proyectos con HTML y CSS.
+[Portafolio HTML y CSS](https://diegudeveloper.github.io/Projects_html_css/) es el resultado de mis habilidades adquiridas en los en los diferentes cursos tomados como autodidacta. Tus comentarios, observaciones y criticas me ayudan a fianzar mis conocimientos y a su vez obtener buenas bases para futuros proyectos con HTML y CSS.
 
 **Toma en cuenta que estos son mis primeros proyectos despues de realizar una serie de cursos.**
 
-## The Portfolio
+## El Portafolio.
 
-El Portafolio consta de 14 proyectos.
+El Portafolio consta de 14 proyectos, en ellos solo se utiliza Html y Css.
 
-Unicamente se utilizo html y css
-
-Todos los proyectos se comenzaron a elaborar despues de realizar 4 cursos de introduccion a la Web.
-
-Algunos de estos cursos fueron tomado de plataformas como: Youtube, Platzi, Edteam y Codigo facilito. 
+Todos los proyectos se comenzaron a elaborar despues de realizar 4 cursos de Html Y Css (Introduccion a la Web). Algunos de estos cursos fueron tomado de plataformas como: Youtube, Platzi, Edteam y Codigo facilito. 
 
 ##¿Como Puedes Ayudarme?
 
-En cada uno de los proyectos podras ver los enlaces tanto del Github Page como del Archivo Readme. Desde ahi podras realizar todas las criticas necesarias para poder mejorar dicho proyecto y con el estaran colaborando a obtener y mejor mis  conocimientos.
+En cada uno de los proyectos podras ver los enlaces tanto del Github Page como del Archivo Readme. Desde ahí podras realizar todas las criticas necesarias para poder mejorar tanto el proyecto como mis conocimientos las buenas practicas.
 
 ##Tus Criticas Constructivas
 
