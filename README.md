@@ -11,7 +11,7 @@
 
 Gracias por tomarte el tiempo para observar, analizar y sobre todo realizar criticas constructivas.
 
-[Portfolo HTML y CSS](https://diegudeveloper.github.io/Projects_html_css/) Sus comentarios y criticas me ayudan a fianzar buenas bases en mis conocimientos de HTML y CSS.
+[Portafolio HTML y CSS](https://diegudeveloper.github.io/Projects_html_css/) es el resultado de mis habilidades adquiridas en los en los diferentes cursos tomados como autodidacta. Sus comentarios y criticas me ayudan a fianzar mis conocimientos y a su vez obtener buenas bases para futuros proyectos con HTML y CSS.
 
 **Toma en cuenta que estos son mis primeros proyectos despues de realizar una serie de cursos.**
 
