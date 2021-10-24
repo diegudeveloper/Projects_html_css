@@ -15,7 +15,7 @@ Gracias por tomarte el tiempo para observar, analizar y sobre todo realizar crit
 
 Tus comentarios, observaciones y criticas me ayudaran a fianzar mis conocimientos y a su vez obtener buenas bases para futuros proyectos con HTML y CSS.
 
-**Toma en cuenta que estos son mis primeros proyectos despues de realizar una serie de cursos y no tengo la experiencia que se amerita para ser un Fronted Developer.**
+**Toma en cuenta que estos son mis primeros proyectos despues de realizar una serie de cursos y no tengo la experiencia que se amerita para tener una buenas prácticas, por tal motivo, seguro encontraras algunas malas errores de codigos que seguramente pueden ser mejorados.**
 
 ## El Portafolio.
 
@@ -40,6 +40,8 @@ Debes recordar que soy un aprendis junior y que no poseo experiencia alguna, sin
 Te comento que mi portafolio esta alojado en:
 
 - [Github Pages] (https://diegudeveloper.github.io/Projects_html_css/)
+
+- [Github Readme] (https://github.com/diegudeveloper/Projects_html_css)
 
 Y mis Proyectos en:
 
