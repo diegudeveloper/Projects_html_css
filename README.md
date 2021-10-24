@@ -15,7 +15,7 @@ Gracias por tomarte el tiempo para observar, analizar y sobre todo realizar crit
 
 Tus comentarios, observaciones y criticas me ayudaran a fianzar mis conocimientos y a su vez obtener buenas bases para futuros proyectos con HTML y CSS.
 
-**Toma en cuenta que estos son mis primeros proyectos despues de realizar una serie de cursos y no tengo la experiencia que se amerita para tener una buenas prácticas, por tal motivo, seguro encontraras algunas malas errores de codigos que seguramente pueden ser mejorados.**
+**Toma en cuenta que estos son mis primeros proyectos despues de realizar una serie de cursos y no tengo la experiencia que se amerita para tener unas buenas prácticas, por tal motivo, seguro encontraras algunos errores de codigos que seguramente pueden ser mejorados.**
 
 ## El Portafolio.
 
@@ -46,5 +46,26 @@ Te comento que mi portafolio esta alojado en:
 Y mis Proyectos en:
 
 - [Replit] (https://replit.com/repls)
+
+## Proyectos
+
+<details>
+    <summary>Proyecto01 Web Curso</summary>
+
+    <details>
+        <summary>🖥 Desktop version</summary>
+
+        ![](https://github.com/diegudeveloper/Proyecto1_WebCurso/blob/gh-pages/Img/desktop.png)
+    </details>
+
+    <details>
+        <summary>📱 Mobile version</summary>
+    
+        ![](https://github.com/diegudeveloper/Proyecto1_WebCurso/blob/gh-pages/Img/movil.jpg)
+    </details>
+</details>
+
+
+
 
 ## ¡Ayudame a Mejorar! 🚀
