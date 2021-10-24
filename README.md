@@ -50,19 +50,19 @@ Y mis Proyectos en:
 ## Proyectos
 
 - Proyecto01 Web Curso
-<details>
-    <summary>🖥 Desktop version</summary>
+    <details>
+        <summary>🖥 Desktop version</summary>
 
-![](https://github.com/diegudeveloper/Proyecto1_WebCurso/blob/gh-pages/Img/desktop.png)
+    ![](https://github.com/diegudeveloper/Proyecto1_WebCurso/blob/gh-pages/Img/desktop.png)
 
-</details>
+    </details>
 
-<details>
-    <summary>📱 Mobile version</summary>
-    
-![](https://github.com/diegudeveloper/Proyecto1_WebCurso/blob/gh-pages/Img/movil.jpg)
+    <details>
+        <summary>📱 Mobile version</summary>
+        
+    ![](https://github.com/diegudeveloper/Proyecto1_WebCurso/blob/gh-pages/Img/movil.jpg)
 
-</details>
+    </details>
 
 
 
