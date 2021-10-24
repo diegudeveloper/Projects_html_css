@@ -69,14 +69,14 @@ Y mis Proyectos en:
     <details>
         <summary>🖥 Desktop version</summary>
 
-    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto1desktop.png)
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto2desktop.png)
 
     </details>
 
     <details>
         <summary>📱 Mobile version</summary>
         
-    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto2movil.jpg)
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto2movil.png)
 
     </details>
 
