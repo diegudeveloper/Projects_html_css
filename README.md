@@ -60,7 +60,7 @@ Y mis Proyectos en:
     <details>
         <summary>📱 Mobile version</summary>
         
-    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto2movil.jpg)
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto1movil.jpg)
 
     </details>
 
