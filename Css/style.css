@@ -4,6 +4,10 @@
     margin: 0;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 html body {
     /*width: 100%;*/
     height: auto;
@@ -30,6 +34,7 @@ html body .container_main {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    align-items: center;
 }
 
 .header input {
@@ -62,6 +67,17 @@ html body .container_main {
     height: 100%;
     display: flex;
     flex-direction: column;
+}
+
+.header .menu ul a {
+    text-decoration: none;
+    color: white;
+    display: flex;
+}
+
+.header .menu ul a li {
+    width: 100%;
+    padding-left: 15px;
 }
 
 .header .logo {
@@ -1003,6 +1019,15 @@ footer {
 }
 
 @media screen and (min-width: 1024px) {
+
+    .header .menu ul a {
+        width: 130px;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+
+
     main .hero .container_main_hero {
         width: 90%;
         height: 500px;
