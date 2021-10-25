@@ -80,5 +80,20 @@ Y mis Proyectos en:
 
     </details>
 
+- Proyecto03 Headphones
+
+    <details>
+        <summary>🖥 Desktop version</summary>
+
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto2desktop.png)
+
+    </details>
+
+    <details>
+        <summary>📱 Mobile version</summary>
+        
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto2movil.png)
+
+    </details>
 
 ## ¡Ayudame a Mejorar! 🚀
