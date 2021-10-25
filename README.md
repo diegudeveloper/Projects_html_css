@@ -27,7 +27,7 @@ Todos los proyectos se comenzaron a elaborar despues de realizar 4 cursos de Htm
 
 En cada uno de los proyectos podras ver los enlaces tanto del Github Page como del Archivo Readme. Desde ahí podras realizar todas las criticas necesarias para poder mejorar tanto el proyecto como mis habilidades y conocimientos para las buenas practicas.
 
-## Tus Criticas Constructivas 🙋‍♂️
+## Tus Criticas Constructivas ✍️
 
 No dudes en mencionar como puedo mejorar mis estructuras con html y sobrte todo mi diseño con Css.
 
