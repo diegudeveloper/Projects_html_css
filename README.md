@@ -49,7 +49,7 @@ Y mis Proyectos en:
 
 ## Proyectos
 
-### Proyecto01 Web Curso
+- Proyecto01 Web Curso
     <details>
         <summary>🖥 Desktop version</summary>
 
