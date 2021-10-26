@@ -80,7 +80,7 @@ Y mis Proyectos en:
 
     </details>
 
-- Proyecto03 Headphones
+- Proyecto03 Web Headphones
 
     <details>
         <summary>🖥 Desktop version</summary>
@@ -93,6 +93,166 @@ Y mis Proyectos en:
         <summary>📱 Mobile version</summary>
         
     ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto3movil.png)
+
+    </details>
+
+    - Proyecto04 Web Minimalista
+
+    <details>
+        <summary>🖥 Desktop version</summary>
+
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto4desktop.png)
+
+    </details>
+
+    <details>
+        <summary>📱 Mobile version</summary>
+        
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto4movil.png)
+
+    </details>
+
+    - Proyecto05 Web Digital Marketink
+
+    <details>
+        <summary>🖥 Desktop version</summary>
+
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto5desktop.png)
+
+    </details>
+
+    <details>
+        <summary>📱 Mobile version</summary>
+        
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto5movil.png)
+
+    </details>
+
+    - Proyecto06 Web Genesis
+
+    <details>
+        <summary>🖥 Desktop version</summary>
+
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto6desktop.png)
+
+    </details>
+
+    <details>
+        <summary>📱 Mobile version</summary>
+        
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto6movil.png)
+
+    </details>
+
+    - Proyecto07 Landing Pages
+
+    <details>
+        <summary>🖥 Desktop version</summary>
+
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto7desktop.png)
+
+    </details>
+
+    <details>
+        <summary>📱 Mobile version</summary>
+        
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto7movil.png)
+
+    </details>
+
+    - Proyecto08 Grid
+
+    <details>
+        <summary>🖥 Desktop version</summary>
+
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto8desktop.png)
+
+    </details>
+
+    <details>
+        <summary>📱 Mobile version</summary>
+        
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto8movil.png)
+
+    </details>
+
+    - Proyecto09 Responsive Menu
+
+    <details>
+        <summary>🖥 Desktop version</summary>
+
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto9desktop.png)
+
+    </details>
+
+    <details>
+        <summary>📱 Mobile version</summary>
+        
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto9movil.png)
+
+    </details>
+
+    - Proyecto10 Filtro
+
+    <details>
+        <summary>🖥 Desktop version</summary>
+
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto10desktop.png)
+
+    </details>
+
+    <details>
+        <summary>📱 Mobile version</summary>
+        
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto10movil.png)
+
+    </details>
+
+    - Proyecto11 Menu Animado
+
+    <details>
+        <summary>🖥 Desktop version</summary>
+
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto11Desktop.png)
+
+    </details>
+
+    <details>
+        <summary>📱 Mobile version</summary>
+        
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto11movil.png)
+
+    </details>
+
+    - Proyecto12 Desafio Card
+
+    <details>
+        <summary>🖥 Desktop version</summary>
+
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto12desktop.jpg)
+
+    </details>
+
+    <details>
+        <summary>📱 Mobile version</summary>
+        
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto12movil.jpg)
+
+    </details>
+
+    - Proyecto13 Desafio Card Component
+
+    <details>
+        <summary>🖥 Desktop version</summary>
+
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto13Desktop.jpg)
+
+    </details>
+
+    <details>
+        <summary>📱 Mobile version</summary>
+        
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto13movil.jpg)
 
     </details>
 
