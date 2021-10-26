@@ -489,6 +489,7 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
     justify-content: space-between;
     align-items: center;
     text-decoration: none;
+    font-size: 0.9rem;
 }
 
 
