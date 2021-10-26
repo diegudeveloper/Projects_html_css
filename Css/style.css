@@ -11,7 +11,7 @@ html {
 html body {
     /*width: 100%;*/
     height: auto;
-    font-family: sans-serif, Arial, Helvetica, sans-serif;
+    font-family: 'Poppins', sans-serif;
     font-size: 62,5%;
 }
 
@@ -25,12 +25,12 @@ html body .container_main {
 
 .header {
     width: 90%;
-    height: 80px;
+    height: 90px;
     margin-left: auto;
     margin-right: auto;
     background-color: rgb(57, 120, 184);
     position: relative;
-
+    font-weight: 300;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
@@ -47,7 +47,6 @@ html body .container_main {
     justify-content: flex-start;
     align-items: center;
     font-size: 160%;
-    padding-left: 20px;
 }
 
 
@@ -81,7 +80,9 @@ html body .container_main {
 }
 
 .header .logo {
+    padding-top: 10px;
     width: 25%;
+    
 }
 
 .header .menu ul li {
