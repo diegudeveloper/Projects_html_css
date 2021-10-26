@@ -1152,6 +1152,7 @@ footer {
         width: auto;
         margin-left: 10px;
         transform: translateY(0);
+        height: 75px;
     }
 
     .header .menu ul {
