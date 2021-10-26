@@ -296,7 +296,8 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
 
 .tools .container_tools .tools .fab, .fas {
     width: 50%;
-    text-align: center;
+    text-align: right;
+    padding-right: 10px;
     font-size: 25px;
 }
 
@@ -559,7 +560,7 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
     padding-left: 10px;
     cursor: pointer;
     font-size: 12px;
-    text-align: right;
+    text-align: left;
 }
 
 .mini_Proyectos .container_mini .mini1 .container_outside a {
@@ -675,6 +676,8 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
     padding-left: 5px;
     cursor: pointer;
     font-size: 12px;
+    text-align: left;
+    padding-left: 10px;
 }
 
 .mini_Proyectos .container_mini .mini5 .container_outside a {
