@@ -248,6 +248,7 @@ main .hero .container_main_hero .picture .picture_small img {
     height: 100%;
     transition: all 400ms ease-out;
     will-change: transform;
+    object-fit: fill;
 }
 
 main .hero .container_main_hero .picture .picture_small:hover > img {
