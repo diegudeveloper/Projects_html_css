@@ -96,7 +96,7 @@ Y mis Proyectos en:
 
     </details>
 
-    - Proyecto04 Web Minimalista
+- Proyecto04 Web Minimalista
 
     <details>
         <summary>🖥 Desktop version</summary>
@@ -112,7 +112,7 @@ Y mis Proyectos en:
 
     </details>
 
-    - Proyecto05 Web Digital Marketink
+- Proyecto05 Web Digital Marketink
 
     <details>
         <summary>🖥 Desktop version</summary>
@@ -128,7 +128,7 @@ Y mis Proyectos en:
 
     </details>
 
-    - Proyecto06 Web Genesis
+- Proyecto06 Web Genesis
 
     <details>
         <summary>🖥 Desktop version</summary>
@@ -144,7 +144,7 @@ Y mis Proyectos en:
 
     </details>
 
-    - Proyecto07 Landing Pages
+- Proyecto07 Landing Pages
 
     <details>
         <summary>🖥 Desktop version</summary>
@@ -160,7 +160,7 @@ Y mis Proyectos en:
 
     </details>
 
-    - Proyecto08 Grid
+- Proyecto08 Grid
 
     <details>
         <summary>🖥 Desktop version</summary>
@@ -176,7 +176,7 @@ Y mis Proyectos en:
 
     </details>
 
-    - Proyecto09 Responsive Menu
+- Proyecto09 Responsive Menu
 
     <details>
         <summary>🖥 Desktop version</summary>
@@ -192,7 +192,7 @@ Y mis Proyectos en:
 
     </details>
 
-    - Proyecto10 Filtro
+- Proyecto10 Filtro
 
     <details>
         <summary>🖥 Desktop version</summary>
@@ -208,7 +208,7 @@ Y mis Proyectos en:
 
     </details>
 
-    - Proyecto11 Menu Animado
+- Proyecto11 Menu Animado
 
     <details>
         <summary>🖥 Desktop version</summary>
@@ -224,7 +224,7 @@ Y mis Proyectos en:
 
     </details>
 
-    - Proyecto12 Desafio Card
+- Proyecto12 Desafio Card
 
     <details>
         <summary>🖥 Desktop version</summary>
@@ -240,7 +240,7 @@ Y mis Proyectos en:
 
     </details>
 
-    - Proyecto13 Desafio Card Component
+- Proyecto13 Desafio Card Component
 
     <details>
         <summary>🖥 Desktop version</summary>
