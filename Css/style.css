@@ -296,7 +296,7 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
 
 .tools .container_tools .tools .fab, .fas {
     width: 50%;
-    text-align: right;
+    text-align: center;
     padding-right: 10px;
     font-size: 25px;
 }
