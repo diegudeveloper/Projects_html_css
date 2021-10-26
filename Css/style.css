@@ -555,9 +555,10 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
 .mini_Proyectos .container_mini .mini1 .container_outside p {
     width: 50%;
     height: 100%;
-    padding-left: 5px;
+    padding-left: 10px;
     cursor: pointer;
     font-size: 12px;
+    text-align: right;
 }
 
 .mini_Proyectos .container_mini .mini1 .container_outside a {
