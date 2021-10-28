@@ -620,8 +620,8 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
 /*Menu Animado*/
 
 .mini_Proyectos .container_mini .mini4 .container_outside {
-    width: 90%;
-    left: 5%;
+    width: 70%;
+    left: 15%;
     position: absolute;
     bottom: 10px;
     background-color: white;
@@ -660,8 +660,8 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
 /*Filtro  */
 
 .mini_Proyectos .container_mini .mini5 .container_outside {
-    width: 90%;
-    left: 5%;
+    width: 70%;
+    left: 15%;
     position: absolute;
     bottom: 10px;
     background-color: white;
