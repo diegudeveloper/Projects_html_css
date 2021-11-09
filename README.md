@@ -1,10 +1,10 @@
 # Portfolio de conocimiento de HTML Y CSS
 
 <details>
-    <summary>🗣️ Spanish version</summary>
+    <summary>🗣️ Version en Español</summary>
 
 <details>
-
+    <summary>🖥️ Diseño Web</summary>
 ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Assets/PC.png)
 
 </details>
