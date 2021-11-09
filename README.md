@@ -1,5 +1,5 @@
 # Portfolio de conocimiento de HTML Y CSS
-
+# Expertise portfolio on HTML and CSS 
 <details>
     <summary>🗣️ Version en Español</summary>
 
