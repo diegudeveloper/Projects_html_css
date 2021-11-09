@@ -3,11 +3,11 @@
 <details>
 <summary>🗣️ Spanish version</summary>
 
-<details>
+    <details>
 
     ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Assets/PC.png)
 
-</details>
+    </details>
 
 
 ## Welcome! 👋
