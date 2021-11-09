@@ -1,11 +1,11 @@
 # Portfolio de conocimiento de HTML Y CSS
 
 <details>
-    <summary>🖥 Desktop Image</summary>
+    <summary>🗣️ Spanish version</summary>
 
 ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Assets/PC.png)
 
-</details>
+
 
 ## Welcome! 👋
 
@@ -257,3 +257,5 @@ Y mis Proyectos en:
     </details>
 
 ## ¡Ayudame a Mejorar! 🚀
+
+</details>
