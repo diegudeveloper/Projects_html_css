@@ -5,6 +5,7 @@
 
 <details>
     <summary>🖥️ Diseño Web</summary>
+    
 ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Assets/PC.png)
 
 </details>
