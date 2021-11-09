@@ -3,10 +3,11 @@
 <details>
         <summary>🗣️ Spanish version</summary>
 
-        <details>
+            <details>
 
-            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Assets/PC.png)
-        </details>
+                ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Assets/PC.png)
+
+            </details>
 
 
     ## Welcome! 👋
@@ -55,14 +56,14 @@
         <details>
             <summary>🖥 Desktop version</summary>
 
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto1desktop.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto1desktop.png)
 
         </details>
 
         <details>
             <summary>📱 Mobile version</summary>
             
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto1movil.jpg)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto1movil.jpg)
 
         </details>
 
@@ -71,14 +72,14 @@
         <details>
             <summary>🖥 Desktop version</summary>
 
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto2desktop.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto2desktop.png)
 
         </details>
 
         <details>
             <summary>📱 Mobile version</summary>
             
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto2movil.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto2movil.png)
 
         </details>
 
@@ -87,14 +88,14 @@
         <details>
             <summary>🖥 Desktop version</summary>
 
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto3desktop.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto3desktop.png)
 
         </details>
 
         <details>
             <summary>📱 Mobile version</summary>
             
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto3movil.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto3movil.png)
 
         </details>
 
@@ -103,14 +104,14 @@
         <details>
             <summary>🖥 Desktop version</summary>
 
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto4desktop.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto4desktop.png)
 
         </details>
 
         <details>
             <summary>📱 Mobile version</summary>
             
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto4movil.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto4movil.png)
 
         </details>
 
@@ -119,14 +120,14 @@
         <details>
             <summary>🖥 Desktop version</summary>
 
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto5desktop.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto5desktop.png)
 
         </details>
 
         <details>
             <summary>📱 Mobile version</summary>
             
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto5movil.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto5movil.png)
 
         </details>
 
@@ -135,14 +136,14 @@
         <details>
             <summary>🖥 Desktop version</summary>
 
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto6desktop.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto6desktop.png)
 
         </details>
 
         <details>
             <summary>📱 Mobile version</summary>
             
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto6movil.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto6movil.png)
 
         </details>
 
@@ -151,14 +152,14 @@
         <details>
             <summary>🖥 Desktop version</summary>
 
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto7desktop.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto7desktop.png)
 
         </details>
 
         <details>
             <summary>📱 Mobile version</summary>
             
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto7movil.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto7movil.png)
 
         </details>
 
@@ -167,14 +168,14 @@
         <details>
             <summary>🖥 Desktop version</summary>
 
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto8desktop.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto8desktop.png)
 
         </details>
 
         <details>
             <summary>📱 Mobile version</summary>
             
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto8movil.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto8movil.png)
 
         </details>
 
@@ -183,14 +184,14 @@
         <details>
             <summary>🖥 Desktop version</summary>
 
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto9desktop.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto9desktop.png)
 
         </details>
 
         <details>
             <summary>📱 Mobile version</summary>
             
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto9movil.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto9movil.png)
 
         </details>
 
@@ -199,14 +200,14 @@
         <details>
             <summary>🖥 Desktop version</summary>
 
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto10desktop.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto10desktop.png)
 
         </details>
 
         <details>
             <summary>📱 Mobile version</summary>
             
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto10movil.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto10movil.png)
 
         </details>
 
@@ -215,14 +216,14 @@
         <details>
             <summary>🖥 Desktop version</summary>
 
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto11Desktop.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto11Desktop.png)
 
         </details>
 
         <details>
             <summary>📱 Mobile version</summary>
             
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto11movil.png)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto11movil.png)
 
         </details>
 
@@ -231,14 +232,14 @@
         <details>
             <summary>🖥 Desktop version</summary>
 
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto12desktop.jpg)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto12desktop.jpg)
 
         </details>
 
         <details>
             <summary>📱 Mobile version</summary>
             
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto12movil.jpg)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto12movil.jpg)
 
         </details>
 
@@ -247,14 +248,14 @@
         <details>
             <summary>🖥 Desktop version</summary>
 
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto13Desktop.jpg)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto13Desktop.jpg)
 
         </details>
 
         <details>
             <summary>📱 Mobile version</summary>
             
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto13movil.jpg)
+            ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto13movil.jpg)
 
         </details>
 
