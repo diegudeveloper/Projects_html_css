@@ -1,5 +1,5 @@
 # Portfolio de conocimiento de HTML Y CSS
-# Expertise portfolio on HTML and CSS 
+
 <details>
     <summary>🗣️ Version en Español</summary>
 
@@ -261,5 +261,17 @@ Y mis Proyectos en:
 </details>
 
 ## ¡Ayudame a Mejorar! 🚀
+
+</details>
+
+# Expertise portfolio on HTML and CSS
+
+<details>
+    <summary>🗣️ English Version</summary>
+
+<details>
+    <summary>🖥️ Web design</summary>
+
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Assets/PC.png)
 
 </details>
