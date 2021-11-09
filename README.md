@@ -316,7 +316,7 @@ And my projects on:
 
 ## Projects 🗃️
 
-- Proyecto01 Web Curso
+- Project01 Web Curso
 <details>
     <summary>🖥 Desktop version</summary>
 
@@ -331,7 +331,7 @@ And my projects on:
 
 </details>
 
-- Proyecto02 Web Restaurant
+- Project02 Web Restaurant
 
 <details>
     <summary>🖥 Desktop version</summary>
@@ -347,7 +347,7 @@ And my projects on:
 
 </details>
 
-- Proyecto03 Web Headphones
+- Project03 Web Headphones
 
 <details>
     <summary>🖥 Desktop version</summary>
@@ -363,7 +363,7 @@ And my projects on:
 
 </details>
 
-- Proyecto04 Web Minimalista
+- Project04 Web Minimalista
 
 <details>
     <summary>🖥 Desktop version</summary>
@@ -379,7 +379,7 @@ And my projects on:
 
 </details>
 
-- Proyecto05 Web Digital Marketink
+- Project05 Web Digital Marketing
 
 <details>
     <summary>🖥 Desktop version</summary>
@@ -395,7 +395,7 @@ And my projects on:
 
 </details>
 
-- Proyecto06 Web Genesis
+- Project06 Web Genesis
 
 <details>
     <summary>🖥 Desktop version</summary>
@@ -411,7 +411,7 @@ And my projects on:
 
 </details>
 
-- Proyecto07 Landing Pages
+- Project07 Landing Pages
 
 <details>
     <summary>🖥 Desktop version</summary>
@@ -427,7 +427,7 @@ And my projects on:
 
 </details>
 
-- Proyecto08 Grid
+- Project08 Grid
 
 <details>
     <summary>🖥 Desktop version</summary>
@@ -443,7 +443,7 @@ And my projects on:
 
 </details>
 
-- Proyecto09 Responsive Menu
+- Project09 Responsive Menu
 
 <details>
     <summary>🖥 Desktop version</summary>
@@ -459,7 +459,7 @@ And my projects on:
 
 </details>
 
-- Proyecto10 Filtro
+- Project10 Filtro
 
 <details>
     <summary>🖥 Desktop version</summary>
@@ -475,7 +475,7 @@ And my projects on:
 
 </details>
 
-- Proyecto11 Menu Animado
+- Project11 Menu Animado
 
 <details>
     <summary>🖥 Desktop version</summary>
@@ -491,7 +491,7 @@ And my projects on:
 
 </details>
 
-- Proyecto12 Desafio Card
+- Project12 Desafio Card
 
 <details>
     <summary>🖥 Desktop version</summary>
@@ -507,7 +507,7 @@ And my projects on:
 
 </details>
 
-- Proyecto13 Desafio Card Component
+- Project13 Desafio Card Component
 
 <details>
     <summary>🖥 Desktop version</summary>
@@ -523,7 +523,7 @@ And my projects on:
 
 </details>
 
-## ¡Ayudame a Mejorar! 🚀
+## ¡Help me improve! 🚀
 
 
 </details>
