@@ -10,47 +10,47 @@
 </details>
 
 
-    ## Welcome! 👋
+## Welcome! 👋
 
-    Gracias por tomarte el tiempo para observar, analizar y sobre todo realizar críticas constructivas.
+Gracias por tomarte el tiempo para observar, analizar y sobre todo realizar críticas constructivas.
 
-    [Portafolio HTML y CSS](https://diegudeveloper.github.io/Projects_html_css/) es el resultado de mis habilidades adquiridas en los diferentes cursos tomados en distintas plataformas online, por ende, me considero una persona autodidacta y con muchas ganas de aprender y de convertirme en un gran Fronted Developer. 
+[Portafolio HTML y CSS](https://diegudeveloper.github.io/Projects_html_css/) es el resultado de mis habilidades adquiridas en los diferentes cursos tomados en distintas plataformas online, por ende, me considero una persona autodidacta y con muchas ganas de aprender y de convertirme en un gran Fronted Developer. 
 
-    Tus comentarios, observaciones y críticas me ayudaran a afianzar mis conocimientos y a su vez obtener buenas bases para futuros proyectos con HTML y CSS.
+Tus comentarios, observaciones y críticas me ayudaran a afianzar mis conocimientos y a su vez obtener buenas bases para futuros proyectos con HTML y CSS.
 
-    **Toma en cuenta que estos son mis primeros proyectos después de realizar una serie de cursos y no tengo la experiencia que se amerita para tener unas buenas prácticas, por tal motivo, seguro encontraras algunos errores de códigos que seguramente pueden ser mejorados.**
+**Toma en cuenta que estos son mis primeros proyectos después de realizar una serie de cursos y no tengo la experiencia que se amerita para tener unas buenas prácticas, por tal motivo, seguro encontraras algunos errores de códigos que seguramente pueden ser mejorados.**
 
-    ## El Portafolio. 🗂️
+## El Portafolio. 🗂️
 
-    El Portafolio consta de 14 proyectos, en ellos solo se utiliza Html y Css puro.
+El Portafolio consta de 14 proyectos, en ellos solo se utiliza Html y Css puro.
 
-    Todos los proyectos se comenzaron a elaborar después de realizar 4 cursos de Html Y Css (Introducción a la Web). Algunos de estos cursos fueron tomado de plataformas como: Youtube, Platzi, Edteam y Código facilito. 
+Todos los proyectos se comenzaron a elaborar después de realizar 4 cursos de Html Y Css (Introducción a la Web). Algunos de estos cursos fueron tomado de plataformas como: Youtube, Platzi, Edteam y Código facilito. 
 
-    ## ¿Como Puedes Ayudarme? 🙋‍♂️
+## ¿Como Puedes Ayudarme? 🙋‍♂️
 
-    En cada uno de los proyectos podrás ver los enlaces tanto del Github Page como del Archivo Readme. Desde ahí podrás realizar todas las críticas necesarias para poder mejorar tanto el proyecto como mis habilidades y conocimientos para las buenas prácticas.
+En cada uno de los proyectos podrás ver los enlaces tanto del Github Page como del Archivo Readme. Desde ahí podrás realizar todas las críticas necesarias para poder mejorar tanto el proyecto como mis habilidades y conocimientos para las buenas prácticas.
 
-    ## Tus Criticas Constructivas ✍️
+## Tus Criticas Constructivas ✍️
 
-    No dudes en mencionar como puedo mejorar mis estructuras con html y sobre todo mi diseño con Css.
+No dudes en mencionar como puedo mejorar mis estructuras con html y sobre todo mi diseño con Css.
 
-    Debes recordar que soy un aprendiz junior y que no poseo experiencia alguna, sin embargo, estoy abierto a toda clase de mejora y sobre todo de aprendizaje.
+Debes recordar que soy un aprendiz junior y que no poseo experiencia alguna, sin embargo, estoy abierto a toda clase de mejora y sobre todo de aprendizaje.
 
 
 
-    ## Implementando mi Proyecto 📥📤
+## Implementando mi Proyecto 📥📤
 
-    Te comento que mi portafolio esta alojado en:
+Te comento que mi portafolio esta alojado en:
 
-    - [Github Pages] (https://diegudeveloper.github.io/Projects_html_css/)
+- [Github Pages] (https://diegudeveloper.github.io/Projects_html_css/)
 
-    - [Github Readme] (https://github.com/diegudeveloper/Projects_html_css)
+- [Github Readme] (https://github.com/diegudeveloper/Projects_html_css)
 
-    Y mis Proyectos en:
+Y mis Proyectos en:
 
-    - [Replit] (https://replit.com/repls)
+- [Replit] (https://replit.com/repls)
 
-    ## Proyectos 🗃️
+## Proyectos 🗃️
 
     - Proyecto01 Web Curso
         <details>
