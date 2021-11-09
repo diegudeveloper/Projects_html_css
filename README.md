@@ -281,3 +281,6 @@ Y mis Proyectos en:
 Thank you for taking your time to read, analyze and most importantly give me positive feedback.
 
 [Portafolio HTML y CSS](https://diegudeveloper.github.io/Projects_html_css/) are the result of new skills acquired from different online courses I have done. Therefore I consider myself a self taught professional with a big desire for learning. I wish to become a great Front end developer.
+
+
+</details>
