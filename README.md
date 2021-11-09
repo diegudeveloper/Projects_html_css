@@ -5,7 +5,7 @@
 
 <details>
     <summary>🖥️ Diseño Web</summary>
-    
+
 ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Assets/PC.png)
 
 </details>
@@ -53,29 +53,29 @@ Y mis Proyectos en:
 
 ## Proyectos 🗃️
 
-    - Proyecto01 Web Curso
-        <details>
-            <summary>🖥 Desktop version</summary>
+- Proyecto01 Web Curso
+<details>
+    <summary>🖥 Desktop version</summary>
 
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto1desktop.png)
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto1desktop.png)
 
-        </details>
+</details>
 
-        <details>
-            <summary>📱 Mobile version</summary>
+<details>
+    <summary>📱 Mobile version</summary>
             
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto1movil.jpg)
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto1movil.jpg)
 
-        </details>
+</details>
 
-    - Proyecto02 Web Restaurant
+- Proyecto02 Web Restaurant
 
-        <details>
-            <summary>🖥 Desktop version</summary>
+<details>
+    <summary>🖥 Desktop version</summary>
 
-        ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto2desktop.png)
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto2desktop.png)
 
-        </details>
+</details>
 
         <details>
             <summary>📱 Mobile version</summary>
