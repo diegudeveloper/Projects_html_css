@@ -282,5 +282,248 @@ Thank you for taking your time to read, analyze and most importantly give me pos
 
 [Portafolio HTML y CSS](https://diegudeveloper.github.io/Projects_html_css/) are the result of new skills acquired from different online courses I have done. Therefore I consider myself a self taught professional with a big desire for learning. I wish to become a great Front end developer.
 
+Your comments, observations and feedback will help me to deepen my knowledge and obtain a good foundation for future projects  with HTML and CSS. 
+
+Do consider these are my first projects after finishing several courses and I don't have the experience to have good practices. For this reason you might find coding mistakes that could surely be improved. 
+
+## The Portfolio 🗂️
+
+The portfolio has 14 projects only on  HTML and Css format.
+
+All the project started after doing 4 HTML and Css courses ( Introduction to the Web). Some of them were done on Youtube, Platzi, Edteam and Codigo Facilito. 
+
+## How can you help me? 🙋‍♂️
+
+On each project you can see the links on Github and on Readme. From them you can give me feedback to improve the project as well as to help me increase my knowledge and gain practice.
+
+## Your positive Feedback ✍️
+
+Don't hesitate to mention how I can improve my structures with HTML and most importantly my design with Css. 
+
+Remember I am a junior developer and I have no previous experience. I am open to feedback, especially learning tips.
+
+## Project implementation 📥📤
+
+My portfolio is on:
+
+- [Github Pages] (https://diegudeveloper.github.io/Projects_html_css/)
+
+- [Github Readme] (https://github.com/diegudeveloper/Projects_html_css)
+
+And my projects on: 
+
+- [Replit] (https://replit.com/repls)
+
+## Projects 🗃️
+
+- Proyecto01 Web Curso
+<details>
+    <summary>🖥 Desktop version</summary>
+
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto1desktop.png)
+
+</details>
+
+<details>
+    <summary>📱 Mobile version</summary>
+            
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto1movil.jpg)
+
+</details>
+
+- Proyecto02 Web Restaurant
+
+<details>
+    <summary>🖥 Desktop version</summary>
+
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto2desktop.png)
+
+</details>
+
+<details>
+    <summary>📱 Mobile version</summary>
+            
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto2movil.png)
+
+</details>
+
+- Proyecto03 Web Headphones
+
+<details>
+    <summary>🖥 Desktop version</summary>
+
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto3desktop.png)
+
+</details>
+
+<details>
+    <summary>📱 Mobile version</summary>
+            
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto3movil.png)
+
+</details>
+
+- Proyecto04 Web Minimalista
+
+<details>
+    <summary>🖥 Desktop version</summary>
+
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto4desktop.png)
+
+</details>
+
+<details>
+    <summary>📱 Mobile version</summary>
+            
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto4movil.png)
+
+</details>
+
+- Proyecto05 Web Digital Marketink
+
+<details>
+    <summary>🖥 Desktop version</summary>
+
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto5desktop.png)
+
+</details>
+
+<details>
+    <summary>📱 Mobile version</summary>
+            
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto5movil.png)
+
+</details>
+
+- Proyecto06 Web Genesis
+
+<details>
+    <summary>🖥 Desktop version</summary>
+
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto6desktop.png)
+
+</details>
+
+<details>
+    <summary>📱 Mobile version</summary>
+            
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto6movil.png)
+
+</details>
+
+- Proyecto07 Landing Pages
+
+<details>
+    <summary>🖥 Desktop version</summary>
+
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto7desktop.png)
+
+</details>
+
+<details>
+    <summary>📱 Mobile version</summary>
+            
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto7movil.png)
+
+</details>
+
+- Proyecto08 Grid
+
+<details>
+    <summary>🖥 Desktop version</summary>
+
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto8desktop.png)
+
+</details>
+
+<details>
+    <summary>📱 Mobile version</summary>
+            
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto8movil.png)
+
+</details>
+
+- Proyecto09 Responsive Menu
+
+<details>
+    <summary>🖥 Desktop version</summary>
+
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto9desktop.png)
+
+</details>
+
+<details>
+    <summary>📱 Mobile version</summary>
+            
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto9movil.png)
+
+</details>
+
+- Proyecto10 Filtro
+
+<details>
+    <summary>🖥 Desktop version</summary>
+
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto10desktop.png)
+
+</details>
+
+<details>
+    <summary>📱 Mobile version</summary>
+            
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto10movil.png)
+
+</details>
+
+- Proyecto11 Menu Animado
+
+<details>
+    <summary>🖥 Desktop version</summary>
+
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto11Desktop.png)
+
+</details>
+
+<details>
+    <summary>📱 Mobile version</summary>
+            
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto11movil.png)
+
+</details>
+
+- Proyecto12 Desafio Card
+
+<details>
+    <summary>🖥 Desktop version</summary>
+
+    ![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto12desktop.jpg)
+
+</details>
+
+<details>
+    <summary>📱 Mobile version</summary>
+            
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto12movil.jpg)
+
+</details>
+
+- Proyecto13 Desafio Card Component
+
+<details>
+    <summary>🖥 Desktop version</summary>
+
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto13Desktop.jpg)
+
+</details>
+
+<details>
+    <summary>📱 Mobile version</summary>
+            
+![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Proyectos/Proyecto13movil.jpg)
+
+</details>
+
+## ¡Ayudame a Mejorar! 🚀
+
 
 </details>
