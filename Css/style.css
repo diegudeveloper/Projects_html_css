@@ -291,7 +291,7 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
     margin-top: 30px;
 }
 
-.tools .linea {
+.linea {
     width: 80%;
     margin: 0 auto;
 }
@@ -445,7 +445,11 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
     background-color: #fff;
 }
 
+/*MiniProyectos*/
 
+.containerMiniPro h3 {
+    align-items: center;
+}
 
 /*Footer*/
 
