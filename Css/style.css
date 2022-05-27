@@ -127,9 +127,10 @@ main .hero .container_main_hero {
     overflow: hidden;
 }
 
-main .hero .container_main_hero .picture_hero {
+/* main .hero .container_main_hero .picture_hero {
     text-align: center;
-}
+    display: flex;
+} */
 
 main .hero .container_main_hero .picture_hero h1 {
     margin-bottom: 1.5rem;
@@ -160,16 +161,19 @@ main .hero .container_main_hero .picture_hero2 {
     flex-wrap: wrap;
 }
 
-main .hero .container_main_hero .picture:nth-child(1) {
+main .hero .container_main_hero .picture {
     width: 90%;
     height: auto;
     margin-right: auto;
     margin-left: auto;
     display: block;
+    text-align: center;
     overflow: hidden;
     margin-top: 10px;
     margin-bottom: 20px;
 }
+
+main .hero .container_main_hero .picture
 
 main .hero .container_main_hero .picture .picture_small {
     width: 80%;
@@ -327,6 +331,7 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
     width: 50%;
     padding-right: 10px;
     font-size: 25px;
+    text-align: center;
 }
 
 .tools .container_tools .tools .text_tools {
@@ -336,7 +341,15 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
 
 /* portafolio / cards*/
 
+.portafolio .containerAll section {
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+
 .portafolio .containerAll section .primerosProyectos {
+    width: 100%;
     text-align: center;
     margin-top: 3rem;
     margin-bottom: 3rem;
@@ -362,7 +375,7 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
     align-items: flex-end;
     box-shadow: 0px 7px 10px rgba(0,0,0,0.5);
     transition: 0.5s ease-in-out;
-    margin: 1rem;
+    margin: 2rem auto;
     border-radius: 1rem;
 }
 
@@ -447,10 +460,12 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
 
 /*MiniProyectos*/
 
-.containerMiniPro h3 {
-    align-items: center;
+.portafolio .containerMiniPro .algp {
+    text-align: center;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
 }
-
+ 
 /*Footer*/
 
 footer {
@@ -491,4 +506,150 @@ footer {
     color: white;
 }
 
+/*footer*/
 
+.footer {
+    margin: 80px 0 10px;
+    text-align: center;
+}
+.footer a {
+    text-decoration: none;
+    color: #999;
+    font-size: 24px;
+    margin: 0 10px;
+}
+.footer hr {
+    background: #999;
+    height: 1px;
+    width: 100%;
+    border:  0;
+    margin: 20px 0;
+}
+.footer p {
+    padding-bottom: 15px;
+}
+.active {
+    position: relative;
+}
+.active::after {
+    content: '';
+    background: var(--text-color-primry);
+    width: 25px;
+    height: 2px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -12px;
+    border-radius: 2px;
+}
+.container-nav .fa-bars {
+    display: none;
+}
+
+/****media queris****/
+
+@media screen and (min-width: 650px) {
+    .header .logo {
+        width: 15%;
+    }
+
+    main .hero .container_main_hero .picture {
+        width: 90%;
+        height: auto;
+        margin-right: auto;
+        margin-left: auto;
+        display: flex;
+        text-align: center;
+        overflow: hidden;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    } 
+    
+    .containerText {
+        width: 50%;
+    }
+    main .hero .container_main_hero .picture_hero h1 {
+        font-size: 1.5rem;
+        padding: 1rem 2rem;
+    }
+
+    .containerImg {
+        width: 50%;
+    }
+    main .hero .container_main_hero .picture_hero H3 {
+        font-size: 1rem;
+        padding: 1rem 2rem;
+    }
+}
+
+@media screen and (min-width: 820px) {
+    .header {
+        width: 90%;
+        margin: 0 auto;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .header label {
+        display: none;
+    }
+    .header .logo {
+        width: 10%;
+    }
+    .header .menu {
+        width: 80%;
+        transform: translateY(0);
+        background: #fff;
+        
+    }
+    .header .menu ul {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+    }
+    .header .menu ul a {
+        color: #000;
+        font-weight: 400;
+    }
+
+    main .hero .container_main_hero .picture_hero h1 {
+        font-size: 1.1rem;
+    }
+    main .hero .container_main_hero .picture_hero h3 {
+        font-size: 0.8rem;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .header {
+        width: 80%;
+        margin: 0 auto;
+    }
+    main .hero {
+        height: 90vh;
+        height: calc(100vh - 85px);
+        margin-top: 0;
+    }
+    main .hero .container_main_hero {
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .containerText {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+        padding: 0 3rem;
+    }
+    main .hero .container_main_hero .picture_hero img {
+        width: 60%;
+    } 
+    main .hero .container_main_hero .picture_hero h1 {
+        font-size: 2rem;
+    }
+    main .hero .container_main_hero .picture_hero h3 {
+        font-size: 1.5rem;
+    }
+}
