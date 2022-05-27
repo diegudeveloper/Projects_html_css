@@ -6,7 +6,7 @@
 <details>
     <summary>🖥️ Diseño Web</summary>
 
-![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Assets/PC.png)
+![127 0 0 1_5500_index html](https://user-images.githubusercontent.com/62949966/170684677-82ebab48-ecb5-46b6-b3a5-fafac53998fd.png)
 
 </details>
 
@@ -272,7 +272,7 @@ Y mis Proyectos en:
 <details>
     <summary>🖥️ Web design</summary>
 
-![](https://github.com/diegudeveloper/Projects_html_css/blob/gh-pages/Assets/PC.png)
+![127 0 0 1_5500_index html](https://user-images.githubusercontent.com/62949966/170684677-82ebab48-ecb5-46b6-b3a5-fafac53998fd.png)
 
 </details>
 
