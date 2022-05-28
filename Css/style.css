@@ -21,10 +21,17 @@ html body .container_main {
     overflow: hidden;
 }
 
+h3 {
+    font-size: 2rem;
+    font-weight: 300;
+
+}
+
 /*Menu*/
 
 .header {
     width: 90%;
+    max-width: 1200px;
     height: 85px;
     margin-left: auto;
     margin-right: auto;
@@ -163,6 +170,7 @@ main .hero .container_main_hero .picture_hero2 {
 
 main .hero .container_main_hero .picture {
     width: 90%;
+    max-width: 1200px;
     height: auto;
     margin-right: auto;
     margin-left: auto;
@@ -297,17 +305,19 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
 
 .linea {
     width: 80%;
-    margin: 0 auto;
+    margin: 3rem auto;
 }
 
 .tools h3 {
     width: 100%;
     height: auto;
     text-align: center;
+    margin-bottom: 3rem;
 }
 
 .tools .container_tools {
     width: 80%;
+    max-width: 900px;
     height: 100%;
     margin-left: auto;
     margin-right: auto;
@@ -343,6 +353,7 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
 
 .portafolio .containerAll section {
     width: 90%;
+    max-width: 1200px;
     margin: 0 auto;
     display: flex;
     flex-wrap: wrap;
@@ -356,6 +367,7 @@ main .hero .container_main_hero .picture .picture_small:hover > img {
 }
 
 .wrapper {
+    max-width: 1200px;
     display: flex;
     justify-content: center;
     align-items: center;
